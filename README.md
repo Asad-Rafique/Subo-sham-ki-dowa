@@ -27,7 +27,7 @@ An Islamic app to help users remember and recite daily supplications (duas). Bui
 ---
 ##  Screen Short
 ![dowa](dowa1.jpeg)   ![dowa](dowa2.jpeg)  ![dowa](dowa3.jpeg)  ![dowa](dowa4.jpeg)  ![dowa](dowa5.jpeg) 
-
+![dowa](dowa6.jpeg)   ![dowa](dowa7.jpeg)   ![dowa](dowa8.jpeg)   ![dowa](dowa9.jpeg)   ![dowa](dowa10.jpeg) 
 
 ## Tech Stack
 
